@@ -703,6 +703,10 @@ button {
     flex-wrap: wrap;
   }
 
+  .header__content {
+    text-align: center;
+  }
+
 }
 
 @media (max-width: 560px) {
